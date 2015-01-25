@@ -2,7 +2,6 @@
 Using Arduino, programming in C Arduino Uno communicates with python program running on a computer 
 
 Features:
-
 Intruder detector
 Fire alarm
 Alarm clock
